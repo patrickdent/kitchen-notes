@@ -1,0 +1,15 @@
+site_name: Recipes
+theme:
+  name: material
+  suppress_nextprev: true
+plugins: 
+  - tags:
+      tags_file: index.md
+markdown_extensions:
+  - admonition
+  - meta
+  - pymdownx.snippets
+nav:
+  - Home: index.md
+  - Sourdough:
+    - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
