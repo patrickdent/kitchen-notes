@@ -1,8 +1,10 @@
-site_name: Recipes
+site_name: In The Kitchen
 theme:
   name: material
-  suppress_nextprev: true
-plugins: 
+  features:
+    - navigation.tabs
+plugins:
+  - search
   - tags:
       tags_file: index.md
 markdown_extensions:
@@ -11,5 +13,6 @@ markdown_extensions:
   - pymdownx.snippets
 nav:
   - Home: index.md
-  - Sourdough:
-    - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
+  - Recipies:
+    - Sourdough:
+      - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
