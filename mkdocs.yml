@@ -12,7 +12,6 @@ markdown_extensions:
   - meta
   - pymdownx.snippets
 nav:
-  - Home: index.md
-  - Recipies:
-    - Sourdough:
-      - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
+  - Recipes:
+    - 'Recipes by Tag': index.md
+    - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
