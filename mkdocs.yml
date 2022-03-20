@@ -1,6 +1,8 @@
 site_name: Kitchen Instructions
 theme:
   name: material
+  features:
+    - content.tabs.link
 plugins:
   - search
   - tags:
@@ -9,6 +11,9 @@ markdown_extensions:
   - admonition
   - meta
   - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 nav:
   - 'Index': index.md
   - Sourdough:
