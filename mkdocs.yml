@@ -1,8 +1,6 @@
-site_name: In The Kitchen
+site_name: Kitchen Instructions
 theme:
   name: material
-  features:
-    - navigation.tabs
 plugins:
   - search
   - tags:
@@ -12,6 +10,8 @@ markdown_extensions:
   - meta
   - pymdownx.snippets
 nav:
-  - Recipes:
-    - 'Recipes by Tag': index.md
+  - 'Index': index.md
+  - Sourdough:
+    - 'Starter and Discard': 'sourdough/starter-and-discard.md'
     - 'Whole Wheat Flax Sandwich Loaf': 'sourdough/ww-flax-sammy.md'
+    - 'Donuts': 'sourdough/donuts.md'

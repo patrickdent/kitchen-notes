@@ -1,29 +1,28 @@
 ---
 title: Whole Wheat Flax Sandwich Loaf
-hero: Set heroes with metadata
 tags:
-  - whole wheat
-  - recipes
+  - Sourdough
+  - Whole wheat
 ---
 !!! info inline end  ""
-    |Ingredients| |
-    | -: | :- |
-    | 100g | starter |
-    | 350g | water |
-    | 40g | maple syrup |
-    | 30g | oil |
-    | 10g | salt |
-    | 240g | whole wheat bread flour |
-    | 260g | wheat bread flour |
-    | 50g | ground flax |
+    | Ingredients |                         |
+    | -:          | :-                      |
+    | 100g        | starter                 |
+    | 350g        | water                   |
+    | 40g         | maple syrup             |
+    | 30g         | oil                     |
+    | 10g         | salt                    |
+    | 240g        | whole wheat bread flour |
+    | 260g        | white bread flour       |
+    | 50g         | ground flax             |
 
 ## Mix Wet Ingredients
-Combine starter, water, syrup, and oil in a stand mixer with the dough hook attachment.
+Combine wet ingredients a stand mixer with the dough hook attachment.
 
-Run on lowest setting while measuring dry ingredients
+Run on lowest setting while measuring dry ingredients.
 
 ## Mix Dry Ingredients
-Combine flours, salt, and flax in a bowl and stir together. Add to the wet ingredients and run on lowest setting for about 5 minutes.
+Combine in a bowl and stir together. Add to the wet ingredients and run on lowest setting for about 5 minutes.
 
 !!! tip "The dough will be very sticky and wet"
 
@@ -43,7 +42,7 @@ Fold into thirds twice. First, folding in the left and right sides, then the top
 Flip the dough over and let rest for 20 minutes.
 
 ## Shaping
-Use the bench scraper scoop/scoot the dough around like a little scamp as though your tucking it into bed. What a little rascal! The goal is to stretch the outer layer of the top of the dough so it's nice and taut. 
+Use the bench scraper scoop/scoot the dough around like a little scamp. What a little rascal! Holding the scraper almost vertical, but slightly tilted away, push the dough away from you so that the leading edge sticks to the counter and is dragged under the dough. Repeat this on all four sides. The goal is to stretch the outer layer of the top of the dough so it's nice and taut. 
 
 ## Prove
 Transfer the dough to a 1 pound loaf pan and cover with tented parchment paper. Secure the paper with a rubber band.
