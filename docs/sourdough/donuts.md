@@ -14,7 +14,6 @@ tags:
     | 30g             | aquafaba                |
     | 10g             | almond butter           |
     | 28g             | melted butter           |
-    | 25g             | oil                     |
     | 1/2 tsp         | vanilla extract         |
 
     | Dry Ingredients |                         |
