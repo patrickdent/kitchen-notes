@@ -1,20 +1,24 @@
 ---
-title: Whole Wheat Flax Sandwich Loaf
+title: Dutch Oven Loaf
 tags:
   - Sourdough
-  - Whole wheat
 ---
+
 !!! info inline end  ""
-    | Ingredients |                         |
-    | -:          | :-                      |
-    | 100g        | starter                 |
-    | 350g        | water                   |
-    | 40g         | maple syrup             |
-    | 30g         | oil                     |
-    | 10g         | salt                    |
-    | 240g        | whole wheat bread flour |
-    | 260g        | white bread flour       |
-    | 50g         | ground flax             |
+    | Wet Ingredients |                         |
+    | -:              | :-                      |
+    | 110g            | starter                 |
+    | 345g            | water                   |
+    | 11g             | salt                    |
+
+    | Dry Ingredients |                         |
+    | -:              | :-                      |
+    | 300g            | white bread flour       |
+    | 195g            | whole wheat bread flour |
+
+    | Misc Ingredients |                              |
+    | -:               | :-                           |
+    | n/a              | Rice Flour, for dusting loaf |
 
 ## Mix Wet Ingredients
 Combine wet ingredients in a stand mixer with the dough hook attachment.
@@ -23,8 +27,6 @@ Run on lowest setting while measuring dry ingredients.
 
 ## Mix Dry Ingredients
 Combine in a bowl and stir together. Add to the wet ingredients and run on lowest setting for about 5 minutes.
-
-!!! tip "The dough will be very sticky and wet"
 
 ## Rest and Stretch
 Allow the dough to rest in a covered bowl for about 30 minutes. Then perform a series of stretches.
@@ -45,16 +47,26 @@ Flip the dough over and let rest for 20 minutes.
 Use the bench scraper scoop/scoot the dough around like a little scamp. What a little rascal! Holding the scraper almost vertical, but slightly tilted away, push the dough away from you so that the leading edge sticks to the counter and is dragged under the dough. Repeat this on all four sides. The goal is to stretch the outer layer of the top of the dough so it's nice and taut. 
 
 ## Prove
-Transfer the dough to a 1 pound loaf pan and cover with tented parchment paper. Secure the paper with a rubber band.
+Sprinkle the loaf with rice flour then transfer into a (rice) floured proving basket.
 
-Prove the dough in the fridge for 24-48 hours.
+Cover and prove the dough in the fridge for 24-48 hours.
 
-## Preheat Oven to 375°
+## Preheat Oven to 450°
+Put the dutch oven in the oven while it's preheating.
+
 Leave the dough in the fridge while you wait for the oven to come to temperature.
 
 ## Bake
-Tent Dough with foil then bake for 1 hour.
+Remove the dutch oven from the oven and take off the lid.
 
-Remove foil, spray with water and bake for 30 more minutes.
+Gently flip the loaf onto a piece of parchment paper. Using a knife or a lame, slice some score marks on the top of the loaf.
+
+Transfer the loaf to the dutch oven.
+
+Spray the top of the loaf with some water and quickly replace the lid.
+
+Return to the oven and bake for 30 minutes.
+
+Remove the lid, reduce the temperature to 400°, and bake for another 30 minutes.
 
 The bread is done when its internal temperature is between 205° and 210°.
