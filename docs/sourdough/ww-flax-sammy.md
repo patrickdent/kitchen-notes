@@ -17,7 +17,7 @@ tags:
     | 50g         | ground flax             |
 
 ## Mix Wet Ingredients
-Combine wet ingredients a stand mixer with the dough hook attachment.
+Combine wet ingredients in a stand mixer with the dough hook attachment.
 
 Run on lowest setting while measuring dry ingredients.
 
